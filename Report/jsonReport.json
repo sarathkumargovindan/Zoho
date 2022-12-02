@@ -1,0 +1,58 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "go To The Application Homepage",
+        "description": "",
+        "id": "zoho-project;go-to-the-application-homepage",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3166535500,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "launch The Url",
+            "match": {
+              "location": "Stepdefinition.launch_The_Url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3419609700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "enter The Login Details",
+            "match": {
+              "location": "Stepdefinition.enter_The_Login_Details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 153231899,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "take Screenshot Of The Webpage",
+            "match": {
+              "location": "Stepdefinition.take_Screenshot_Of_The_Webpage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Zoho project",
+    "description": "",
+    "id": "zoho-project",
+    "keyword": "Feature",
+    "uri": "C:/Users/sriva/eclipse-workspace/Zoho/src/main/java/com/feature/zoho.feature"
+  }
+]

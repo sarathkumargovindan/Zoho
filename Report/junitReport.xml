@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="6.739377">
+<testcase classname="Zoho project" name="go To The Application Homepage" time="6.739377">
+<system-out><![CDATA[Given launch The Url........................................................passed
+When enter The Login Details................................................passed
+Then take Screenshot Of The Webpage.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
